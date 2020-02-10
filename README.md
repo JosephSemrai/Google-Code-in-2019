@@ -8,7 +8,8 @@ List of my completed tasks for Google Code-in 2019
 * [[LabelLab] Add screenshots of LabelLab mobile app to the project’s README](https://codein.withgoogle.com/archive/2019/t/4863982519713792/)
 * [[TensorMap] Document data pre-processing related endpoints](https://codein.withgoogle.com/archive/2019/t/6394595282255872/)
 * [[LabelLab] Documenting the LabelLab mobile app](https://codein.withgoogle.com/archive/2019/t/5155135802572800/) * 
-* [[Bassa] Push empty downloads folder to Bassa GitHub Repository (Work on develop branch)](https://codein.withgoogle.com/archive/2019/t/6043891774521344/) * [[Elly] Change the existing 'Elly' mobile application's user interfaces.](https://codein.withgoogle.com/archive/2019/t/4600231203700736/)
+* [[Bassa] Push empty downloads folder to Bassa GitHub Repository (Work on develop branch)](https://codein.withgoogle.com/archive/2019/t/6043891774521344/)
+* [[Elly] Change the existing 'Elly' mobile application's user interfaces.](https://codein.withgoogle.com/archive/2019/t/4600231203700736/)
 * [[SCoRe-Mobile-App] Create a Readme.md file](https://codein.withgoogle.com/archive/2019/t/5101686830399488/)
 * [[TensorMap] Write unit tests for all data pre-processing endpoints](https://codein.withgoogle.com/archive/2019/t/6332569210060800/)
 * [[Fact Bounty] Create a better UI design for fact bounty dashboard](https://codein.withgoogle.com/archive/2019/t/6019298296856576/)
