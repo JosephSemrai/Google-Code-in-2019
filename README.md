@@ -1,75 +1,74 @@
 # Google-Code-in-2019
 List of my completed tasks for Google Code-in 2019
 
-##SCoRe Lab
-•	[Fact Bounty] Support tweet search similar to post search
-•	[CLocal Azure] - Improve the current unit test cases
-•	[LabelLab] Add screenshots of LabelLab mobile app to the project’s README
-•	[TensorMap] Document data pre-processing related endpoints
-•	[LabelLab] Documenting the LabelLab mobile app
-•	[Bassa] Push empty downloads folder to Bassa GitHub Repository (Work on develop branch)
-•	[Elly] Change the existing 'Elly' mobile application's user interfaces.
-•	[SCoRe-Mobile-App] Create a Readme.md file
-•	[TensorMap] Write unit tests for all data pre-processing endpoints
-•	[Fact Bounty] Create a better UI design for fact bounty dashboard
-•	[park] Design a simple LOGO for a mobile application
-•	[LabelLab] Documenting the LabelLab server
-•	[LabelLab] Documenting the LabelLab web app
-•	[ TrackPal ] - Develop a Simple web dashboard UI
-•	[CLocal Azure] - Find an issue and report
-•	[DroneSym] Find a bug or an improvement of DroneSym and open up an issue
-•	[LabelLab] Integrate the splash screen for the LabelLab mobile application
-•	[DroneSym] Design a simple UI for DroneSym dashboard
-•	[DroneSym] Tweak the project to be Mobile Responsive
-•	[TensorMap] Apply sorting of columns in frontend to data set used for training in backend
-•	[nodecloud-web] Add client end and server end pagination for the list of running services.
-•	[TensorMap] Modify UI of “viewdata” page and populate table
-•	[Fact Bounty] Create Back End support for commenting in Posts
-•	[Fact Bounty] Write unit tests in flask to few routes for Fact Bounty API server
-•	[Elly] Test the ios version of the Elly Mobile App
-•	[park] Test the ios version of the Park Mobile App
-•	[Dunner] Write a Dunner recipe for Dunner Cookbook
-•	[park] Test the android version of the park Mobile App
-•	[nodecloud-cli] - Validate cli flags
-•	[nodecloud-cli] - Add --pretty flag for array outputs in cli
-•	[Elly] Test the android version of the Elly Mobile App
-•	[Fact Bounty] Filter post types in posts page
-•	Create a feature request for a new installation script for a popular tool
-•	Implement an installer script for a popular tool
-•	[Fact Bounty] Create Front End support for commenting in Posts
-•	[nodecloud-web] Perform component testing for navbar component used in dashboard
-•	[nodecloud-web] Perform component testing for sidebar component used in dashboard
-•	[Fact Bounty] Submit an issue
-•	[Fact Bounty] Create Backend routes for profile view and edit
-•	[LabelLab] Find an improvement or a bug in the LabelLab project and open an issue
-•	[nodecloud-cli] - Create a github page for CLI
-•	[Bassa] Add social icons to the Bassa homepage
-•	[Bug-Zero] Design a logo for Bug Zero
-•	[nodecloud-web] - Find an issue and report
-•	[LabelLab] Integrate Travis CI to deploy the web app to GitHub pages
-•	[nodecloud-web] Format the code using eslint.
-•	[DroneSym] Design a logo for DroneSym
-•	[Fact Bounty] Design a logo for Fact Bounty
-•	[TensorMap] Find an issue in TensorMap and open an issue
-•	[LabelLab] Update the web app to be mobile responsive
-•	[TensorMap] Add a Loader for ‘visualizedata’ page
-•	[Bassa] Find an alternative to hard coding SERVER_KEY for Bassa API server
-•	[CLocal Azure] - MySQL service not exiting from the command line
-•	[SenZ]- NodeJS Command Line Interface for Senz
-•	[Bassa] Configure GitHub to style unstyled or unrecognized files in Bassa GitHub repository
-•	[Fact Bounty] Redesign post item component for mobile
-•	[LabelLab] Design a splash screen for the Labellab mobile application
-•	[TensorMap] Create a project logo
-•	[LabelLab] Write unit tests for the LabelLab server
-•	[ AnimalRescue ] Generate test cases
-•	[Fact Bounty] Setting up an OAuth daemon
-•	[nodecloud-cli] - Add GitHub repo link in Version flag
-•	[Fact Bounty] Create front end profile detail view
-•	[nodecloud-cli] - Add Emoji in output
-•	[nodecloud-cli] - Add Proper colors for output messages
-•	[nodecloud-cli] - Add a flag to print a table of json data
-•	[nodecloud-cli] - Add option to set Region through CLI command
-•	[nodecloud-cli] - Write unit test for remaining services
-•	[Fact Bounty] New Crawler Step 3: Set up elasticsearch 6.2.0 on your local machine
-•	[Bassa] Perform load testing using locust framework on production Bassa API container.
-•	[Python/Java/C++/Perl/PHP/Rust] Create and host a local server
+**SCoRe Lab (71 Tasks)**
+
+* [[Fact Bounty] Support tweet search similar to post search](https://codein.withgoogle.com/archive/2019/t/4681083719778304/) 
+* [[CLocal Azure] - Improve the current unit test cases](https://codein.withgoogle.com/archive/2019/t/5921645412220928/)
+* [[LabelLab] Add screenshots of LabelLab mobile app to the project’s README](https://codein.withgoogle.com/archive/2019/t/4863982519713792/)
+* [[TensorMap] Document data pre-processing related endpoints](https://codein.withgoogle.com/archive/2019/t/6394595282255872/)
+* [[LabelLab] Documenting the LabelLab mobile app](https://codein.withgoogle.com/archive/2019/t/5155135802572800/) * 
+* [[Bassa] Push empty downloads folder to Bassa GitHub Repository (Work on develop branch)](https://codein.withgoogle.com/archive/2019/t/6043891774521344/) * [[Elly] Change the existing 'Elly' mobile application's user interfaces.](https://codein.withgoogle.com/archive/2019/t/4600231203700736/)
+* [[SCoRe-Mobile-App] Create a Readme.md file](https://codein.withgoogle.com/archive/2019/t/5101686830399488/)
+* [[TensorMap] Write unit tests for all data pre-processing endpoints](https://codein.withgoogle.com/archive/2019/t/6332569210060800/)
+* [[Fact Bounty] Create a better UI design for fact bounty dashboard](https://codein.withgoogle.com/archive/2019/t/6019298296856576/)
+* [[park] Design a simple LOGO for a mobile application](https://codein.withgoogle.com/archive/2019/t/6488884620296192/)
+* [[LabelLab] Documenting the LabelLab server](https://codein.withgoogle.com/archive/2019/t/5019072111050752/)
+* [[LabelLab] Documenting the LabelLab web app](https://codein.withgoogle.com/archive/2019/t/5278991317991424/)
+* [[ TrackPal ] - Develop a Simple web dashboard UI](https://codein.withgoogle.com/archive/2019/t/5442770634801152/)
+* [[CLocal Azure] - Find an issue and report](https://codein.withgoogle.com/archive/2019/t/6039223094738944/)
+* [[DroneSym] Find a bug or an improvement of DroneSym and open up an issue](https://codein.withgoogle.com/archive/2019/t/4703193238339584/) * [[LabelLab] Integrate the splash screen for the LabelLab mobile application](https://codein.withgoogle.com/archive/2019/t/6606435585097728/)
+* [[DroneSym] Design a simple UI for DroneSym dashboard](https://codein.withgoogle.com/archive/2019/t/5480535678255104/)
+* [[DroneSym] Tweak the project to be Mobile Responsive](https://codein.withgoogle.com/archive/2019/t/5121978923483136/)
+* [[TensorMap] Apply sorting of columns in frontend to data set used for training in backend](https://codein.withgoogle.com/archive/2019/t/6505879193518080/)
+* [[nodecloud-web] Add client end and server end pagination for the list of running services.](https://codein.withgoogle.com/archive/2019/t/5755152531718144/)
+* [[TensorMap] Modify UI of “viewdata” page and populate table](https://codein.withgoogle.com/archive/2019/t/5946588552232960/)
+* [[Fact Bounty] Create Back End support for commenting in Posts](https://codein.withgoogle.com/archive/2019/t/5794961644060672/)
+* [[Fact Bounty] Write unit tests in flask to few routes for Fact Bounty API server](https://codein.withgoogle.com/archive/2019/t/5402105783779328/)
+* [[Elly] Test the ios version of the Elly Mobile App](https://codein.withgoogle.com/archive/2019/t/5205625097682944/)
+* [[park] Test the ios version of the Park Mobile App](https://codein.withgoogle.com/archive/2019/t/5305459934756864/)
+* [[Dunner] Write a Dunner recipe for Dunner Cookbook](https://codein.withgoogle.com/archive/2019/t/6091039551520768/)
+* [[park] Test the android version of the park Mobile App](https://codein.withgoogle.com/archive/2019/t/4794429290840064/)
+* [[nodecloud-cli] - Validate cli flags](https://codein.withgoogle.com/archive/2019/t/5354060987760640/)
+* [[nodecloud-cli] - Add --pretty flag for array outputs in cli](https://codein.withgoogle.com/archive/2019/t/5633403613872128/)
+* [[Elly] Test the android version of the Elly Mobile App](https://codein.withgoogle.com/archive/2019/t/5628158947098624/)
+* [[Fact Bounty] Filter post types in posts page](https://codein.withgoogle.com/archive/2019/t/6361969368498176/)
+* [Create a feature request for a new installation script for a popular tool](https://codein.withgoogle.com/archive/2019/t/6096785446010880/)
+* [Implement an installer script for a popular tool](https://codein.withgoogle.com/archive/2019/t/6473830155943936/)
+* [[Fact Bounty] Create Front End support for commenting in Posts](https://codein.withgoogle.com/archive/2019/t/6046022447398912/)
+* [[nodecloud-web] Perform component testing for navbar component used in dashboard](https://codein.withgoogle.com/archive/2019/t/5710824979562496/)
+* [[nodecloud-web] Perform component testing for sidebar component used in dashboard](https://codein.withgoogle.com/archive/2019/t/5731570611126272/)
+* [[Fact Bounty] Submit an issue](https://codein.withgoogle.com/archive/2019/t/5756259425320960/)
+* [[Fact Bounty] Create Backend routes for profile view and edit](https://codein.withgoogle.com/archive/2019/t/6259495441793024/)
+* [[LabelLab] Find an improvement or a bug in the LabelLab project and open an issue](https://codein.withgoogle.com/archive/2019/t/6549426974228480/)
+* [[nodecloud-cli] - Create a github page for CLI](https://codein.withgoogle.com/archive/2019/t/5348244511522816/)
+* [[Bassa] Add social icons to the Bassa homepage](https://codein.withgoogle.com/archive/2019/t/5442750971904000/)
+* [[Bug-Zero] Design a logo for Bug Zero](https://codein.withgoogle.com/archive/2019/t/5966892850741248/)
+* [[nodecloud-web] - Find an issue and report](https://codein.withgoogle.com/archive/2019/t/6245827933110272/)
+* [[LabelLab] Integrate Travis CI to deploy the web app to GitHub pages](https://codein.withgoogle.com/archive/2019/t/5892396030623744/)
+* [[nodecloud-web] Format the code using eslint.](https://codein.withgoogle.com/archive/2019/t/4847081798238208/)
+* [[DroneSym] Design a logo for DroneSym](https://codein.withgoogle.com/archive/2019/t/6009587132530688/)
+* [[Fact Bounty] Design a logo for Fact Bounty](https://codein.withgoogle.com/archive/2019/t/5732979091963904/)
+* [[TensorMap] Find an issue in TensorMap and open an issue](https://codein.withgoogle.com/archive/2019/t/5098413041909760/)
+* [[LabelLab] Update the web app to be mobile responsive](https://codein.withgoogle.com/archive/2019/t/5759582488494080/)
+* [[TensorMap] Add a Loader for ‘visualizedata’ page](https://codein.withgoogle.com/archive/2019/t/5126459715223552/)
+* [[Bassa] Find an alternative to hard coding SERVER_KEY for Bassa API server](https://codein.withgoogle.com/archive/2019/t/5947494387679232/)
+* [[CLocal Azure] - MySQL service not exiting from the command line](https://codein.withgoogle.com/archive/2019/t/5064586550575104/)
+* [[SenZ]- NodeJS Command Line Interface for Senz](https://codein.withgoogle.com/archive/2019/t/4701461292777472/)
+* [[Bassa] Configure GitHub to style unstyled or unrecognized files in Bassa GitHub repository](https://codein.withgoogle.com/archive/2019/t/5326722698838016/)
+* [[Fact Bounty] Redesign post item component for mobile](https://codein.withgoogle.com/archive/2019/t/4643872794214400/)
+* [[LabelLab] Design a splash screen for the Labellab mobile application](https://codein.withgoogle.com/archive/2019/t/6232989453778944/)
+* [[TensorMap] Create a project logo](https://codein.withgoogle.com/archive/2019/t/5121212909355008/)
+* [[LabelLab] Write unit tests for the LabelLab server](https://codein.withgoogle.com/archive/2019/t/6587018407051264/)
+* [[ AnimalRescue ] Generate test cases](https://codein.withgoogle.com/archive/2019/t/4731310510178304/)
+* [[Fact Bounty] Setting up an OAuth daemon](https://codein.withgoogle.com/archive/2019/t/4842125699579904/)
+* [[nodecloud-cli] - Add GitHub repo link in Version flag](https://codein.withgoogle.com/archive/2019/t/5199060701544448/)
+* [[Fact Bounty] Create front end profile detail view](https://codein.withgoogle.com/archive/2019/t/6518086866305024/)
+* [[nodecloud-cli] - Add Emoji in output](https://codein.withgoogle.com/archive/2019/t/5830681377112064/)
+* [[nodecloud-cli] - Add Proper colors for output messages](https://codein.withgoogle.com/archive/2019/t/6448455883423744/)
+* [[nodecloud-cli] - Add a flag to print a table of json data](https://codein.withgoogle.com/archive/2019/t/5659477823455232/)
+* [[nodecloud-cli] - Add option to set Region through CLI command](https://codein.withgoogle.com/archive/2019/t/4535463088488448/)
+* [[nodecloud-cli] - Write unit test for remaining services](https://codein.withgoogle.com/archive/2019/t/5708271168520192/)
+* [[Fact Bounty] New Crawler Step 3: Set up elasticsearch 6.2.0 on your local machine](https://codein.withgoogle.com/archive/2019/t/5666019410968576/)
+* [[Bassa] Perform load testing using locust framework on production Bassa API container.](https://codein.withgoogle.com/archive/2019/t/5582022064472064/)
+* [[Python/Java/C++/Perl/PHP/Rust] Create and host a local server](https://codein.withgoogle.com/archive/2019/t/5349387929124864/)
